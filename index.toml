@@ -111,6 +111,11 @@ hash = "a8092461a034b680826aa9fc2f2a61f22ffdf32a0a1501d3ee384e5639ea4e42"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "0bf7b07a3c3a7f5220f6a30c07a8ca0fcf51927553a5fa4f73d39e5ef07a440e"
+metafile = true
+
+[[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "fc90107a8ba7d443f4e38c2b46743a54bb02596bf076d1de6889eb4d62e5a255"
 metafile = true
