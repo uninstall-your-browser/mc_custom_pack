@@ -1,0 +1,13 @@
+name = "Squat Grow"
+filename = "squatgrow-forge-5.3.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5JMdB5V/versions/GqQjv0rk/squatgrow-forge-5.3.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "4295b803543f4e64efa9cd5c81cc4613e2271af4ae0a509625dcd13932f45f7062ee4ca62ff4d5952bc4ef92011d079855937016f2a75a30390bc85b358725be"
+
+[update]
+[update.modrinth]
+mod-id = "b5JMdB5V"
+version = "GqQjv0rk"
