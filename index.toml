@@ -291,6 +291,11 @@ hash = "fb0b4fd8ba4d353ce1ec364f6d0a47a392f29dd49ff0a9b17e9dd5a6047a48a5"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "426ec3df7f994bfdf77584b27efab697c87973f66f1e8dfc47fc0fc6ea840031"
+metafile = true
+
+[[files]]
 file = "mods/tetra.pw.toml"
 hash = "adcdb792184dc175d3cc7c80bc27c4ef8631da4a50f59e2612c4835b7b9a4cb0"
 metafile = true
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
