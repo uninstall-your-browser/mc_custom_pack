@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dropthemeat-common.toml"
+hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
+
+[[files]]
 file = "mods/advanced-mining-dimension.pw.toml"
 hash = "3de26a366ac7bc92c1b717da3308317b7ddef0e030b1f4826c4116659e5efa90"
 metafile = true
