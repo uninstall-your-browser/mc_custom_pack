@@ -284,3 +284,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/testing.txt"
+hash = "91751cee0a1ab8414400238a761411daa29643ab4b8243e9a91649e25be53ada"
