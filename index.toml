@@ -301,11 +301,6 @@ hash = "adcdb792184dc175d3cc7c80bc27c4ef8631da4a50f59e2612c4835b7b9a4cb0"
 metafile = true
 
 [[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "6f61f95a26011b08a22c9b5efa41ce8508a3843e7edeb78769debb35a01a4809"
-metafile = true
-
-[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
