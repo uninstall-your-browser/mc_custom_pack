@@ -286,5 +286,5 @@ hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/testing.txt"
-hash = "91751cee0a1ab8414400238a761411daa29643ab4b8243e9a91649e25be53ada"
+file = "resourcepacks/tp-sp-langpack.zip"
+hash = "10aa963201b61e11ef99bbb1d3d472966e02a42f4d0fd0876663cc4d231042fe"
