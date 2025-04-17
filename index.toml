@@ -176,6 +176,16 @@ hash = "120be2bee17effa9c285cdacd8b5f74b24049c66a24fada1d4ec616e7bbc2f49"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f8312021fd88a4952e1d50a2f156fab65314f87658d7153efc56be76a422d5cd"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "97c5e1b61bfd1a812718baa7657ccf20691697ef8a1be47972a230c209c4077c"
 metafile = true
