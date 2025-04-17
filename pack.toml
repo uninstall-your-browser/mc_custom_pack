@@ -1,0 +1,13 @@
+name = "I was transported to another world where, alone, I became the hero known as bryan"
+author = "AnimeEnjoyer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c6b6b45ee21e19eb75fc5020d0fa768e788ae62acf2fce4913639a0ae24c78b9"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
