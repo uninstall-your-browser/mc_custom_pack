@@ -305,11 +305,6 @@ hash = "f1991c50d193d66409bdf2efd2cc3e36d9abcc9e566e35da5e07d631fce83e7b"
 metafile = true
 
 [[files]]
-file = "mods/stackable-stew-and-soup.pw.toml"
-hash = "fb0b4fd8ba4d353ce1ec364f6d0a47a392f29dd49ff0a9b17e9dd5a6047a48a5"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "426ec3df7f994bfdf77584b27efab697c87973f66f1e8dfc47fc0fc6ea840031"
 metafile = true
