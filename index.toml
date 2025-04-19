@@ -90,6 +90,11 @@ hash = "a753795f2581005ff60f4056870afcb400c05358156ffd3513d25b80743df5dd"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
 metafile = true
