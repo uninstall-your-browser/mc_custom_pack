@@ -1,0 +1,13 @@
+name = "Rispwind's Mining Dimension"
+filename = "rw_miningdimension-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DBeM7fyZ/versions/oIqpYnuM/rw_miningdimension-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ad4838929626c334876a304c7234a0d0543dbe4c813aaf413fc2b7f55eb64bb669a82536cb2fc7aafcd047809807f722e6287b44355cd29bdad2152db7e79be7"
+
+[update]
+[update.modrinth]
+mod-id = "DBeM7fyZ"
+version = "oIqpYnuM"

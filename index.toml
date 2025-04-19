@@ -5,11 +5,6 @@ file = "config/dropthemeat-common.toml"
 hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
 
 [[files]]
-file = "mods/advanced-mining-dimension.pw.toml"
-hash = "3de26a366ac7bc92c1b717da3308317b7ddef0e030b1f4826c4116659e5efa90"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -272,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rispwinds-mining-dimension.pw.toml"
+hash = "5d7345ac35ff418b834a980e509a44e7d19fd8c23c7900613c8e63af6fcd7827"
 metafile = true
 
 [[files]]
