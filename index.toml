@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
+hash = "4300f968e0d638ab393e1a2ee7fc7f2c631eaa3c3d00e6909587fe3c548b7c81"
 metafile = true
 
 [[files]]
