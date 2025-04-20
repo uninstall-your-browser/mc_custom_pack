@@ -260,6 +260,11 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
+file = "mods/precision-mining.pw.toml"
+hash = "36a40870fce1ca6a41bcde3373d1593c6c9ec12309bbbeec7d6613ed8f6db865"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true

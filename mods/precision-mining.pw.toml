@@ -1,0 +1,13 @@
+name = "Precision Mining"
+filename = "PrecisionMining-1.20.1-5.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8509ac825c231a4924888ed4a94c5865a6604cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6443014
+project-id = 438451
