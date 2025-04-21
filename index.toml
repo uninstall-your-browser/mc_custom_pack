@@ -370,6 +370,10 @@ hash = "6a249583abaec5492b693b8a19e1b42abb338af6517f92004c86471df57ddfc0"
 metafile = true
 
 [[files]]
+file = "mods/vintageimprovements-1.20.1-0.3.1.0.jar"
+hash = "214581e51e768f094aa8c371a63dfc2237fa927f72fb75ea74c7b6b9df6d89e9"
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "2a1e1a0db8d2eeef1514a34180089d743eb35fec8e442ea54dbe33dde7d6cf48"
 metafile = true
