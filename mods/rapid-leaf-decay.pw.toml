@@ -1,6 +1,6 @@
 name = "Rapid Leaf Decay"
 filename = "RapidLeafDecay-1.20.1-2.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jSQXzmcf/versions/4HT3hgJf/RapidLeafDecay-1.20.1-2.0.2.jar"
