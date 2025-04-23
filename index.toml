@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "4300f968e0d638ab393e1a2ee7fc7f2c631eaa3c3d00e6909587fe3c548b7c81"
+hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "746a9ffcef0f6f8a266d47c8bb15be07c39b32440c2a695d27bf0ba2527bbd5e"
+hash = "d3d5efd34f6882d5447ac51069506077fb97f6d2adfd7a29af4a803e8158f026"
 metafile = true
 
 [[files]]
@@ -317,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
-metafile = true
-
-[[files]]
-file = "mods/simply-harvesting.pw.toml"
-hash = "058bda4f1ef99e405407f51c8eb00535c8c2433a401c0b900a594be7193629f3"
 metafile = true
 
 [[files]]
