@@ -1,0 +1,13 @@
+name = "Create: Old Copper Stuffs"
+filename = "Old Copper Stuffs v1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pF4BGR3M/versions/bGG7d6rF/Old%20Copper%20Stuffs%20v1.8.zip"
+hash-format = "sha512"
+hash = "c4f78ed9767c59ae0bb0fc423f6e138442ab4996e6a6f7bfa1bdfce6e72a4a30a24f7281ead298679a248e7222842cc7f1051119f36e8057af3db4bd928f0ab8"
+
+[update]
+[update.modrinth]
+mod-id = "pF4BGR3M"
+version = "bGG7d6rF"

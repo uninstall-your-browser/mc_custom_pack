@@ -82,6 +82,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "6344acd50f5c1a54359fb04fd57b22516949d0d81ac025fdc8f8ed17a23d2b3d"
 metafile = true
 
 [[files]]
@@ -247,6 +257,11 @@ hash = "90a70141bcec839b6a1aa647c91f97bb7b33b6b9e6ce6b3b18a4113aa7dff636"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -367,6 +382,26 @@ hash = "adcdb792184dc175d3cc7c80bc27c4ef8631da4a50f59e2612c4835b7b9a4cb0"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
@@ -403,6 +438,35 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades.zip"
+hash = "1c699bac1d953f076365cb30047da1072030b7d9a75868df12cf769b145f987d"
+
+[[files]]
+file = "resourcepacks/better-gui-sophisticated-backpacks.pw.toml"
+hash = "4a7f8f58d34ec6179ec2e8697b324f43888c4673f02aed2b71d228b547d802e7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-old-copper-stuffs.pw.toml"
+hash = "16ab05a62caae0637b4c9b681d15cf5a113b6178d91d3f821216ce887af01a83"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "30ad212730fa8fed38f81dc5d7d57777463295ba3018117c62725fb464ca7280"
+metafile = true
+
+[[files]]
+file = "resourcepacks/programmer-art-fix.pw.toml"
+hash = "2a0d3edde7912ff0b9d9c342a8c88ba66cb859aea4612cc4c6a9e97c0cf5303f"
 metafile = true
 
 [[files]]

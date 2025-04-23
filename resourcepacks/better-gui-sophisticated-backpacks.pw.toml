@@ -1,0 +1,13 @@
+name = "[Moonsu] Better GUI for Sophisticated Backpacks"
+filename = "[Moonsu] Better GUI for Sophisticated Backpacks 2.0 1.20-1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQaHxbyh/versions/Y0EMlVa1/%5BMoonsu%5D%20Better%20GUI%20for%20Sophisticated%20Backpacks%202.0%201.20-1.zip"
+hash-format = "sha512"
+hash = "b7772acdab2c3f1bf0f86ba656f68a02d2fb756e5af33b345f8d416b05205e649617d5bdbe03e4c1459dc96a4360fd5184be74176bde44cb6dd5d02e1dfaa62e"
+
+[update]
+[update.modrinth]
+mod-id = "LQaHxbyh"
+version = "Y0EMlVa1"
