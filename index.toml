@@ -5,6 +5,10 @@ file = "config/dropthemeat-common.toml"
 hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
 
 [[files]]
+file = "config/tombstone-server.toml"
+hash = "550409bcd60313359487a7e4eb25b283cce8e8d41f3fc3d77b79514fa3ac1cce"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
