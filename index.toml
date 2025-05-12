@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
+hash = "b9fd2cf7b92bc6d8654a5885cd8d9842d404177486f5de80866e194e56c293a0"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "8718a40a32210afa1ed0e779ceb69df7e7886357e61112aa12bbd3a3cb0a54c0"
+hash = "1d0fb5399ce73d02eb9bec99117b4317df8bce6fbf90fd78df7bd7c55f34f8d8"
 metafile = true
 
 [[files]]
@@ -378,17 +378,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "fa308a51869f327a45a99e03b911ba90eb89fa7250406ee3b944d847646ab744"
+hash = "3e7e50f5bee28d50e578f116f57a0eb92edbd1801e1276cf53412f48a2a3bfb0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "63b971d58fe04fae1ae1440eb506deed097c890091a7faea1659311cec6066c8"
+hash = "f1c35000bb491cbeb224e1dbb58a23c072d3b5f238c8d2ee5f5efd77f4c86724"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "289ea3090aae5943a70238c858871092940c3437c21a1baf3fbd927210bdfb52"
+hash = "f21aac1684a5d151cabe329e4473a64acffb9cdcd39ba7dcf5c2a31c2af02428"
 metafile = true
 
 [[files]]
@@ -452,12 +452,12 @@ hash = "214581e51e768f094aa8c371a63dfc2237fa927f72fb75ea74c7b6b9df6d89e9"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "2a1e1a0db8d2eeef1514a34180089d743eb35fec8e442ea54dbe33dde7d6cf48"
+hash = "e48d6500dd32cf1b0d8595b78f25aa23add3a5b2a4ff1b1f9d08b55041c53823"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
 metafile = true
 
 [[files]]
