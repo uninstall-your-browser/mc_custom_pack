@@ -1,13 +1,13 @@
 name = "MonoLib"
-filename = "monolib-forge-1.20.1-2.0.0.jar"
+filename = "monolib-forge-1.20.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9leXt4A5/versions/UCIHOC9y/monolib-forge-1.20.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/CbACsOvp/monolib-forge-1.20.1-2.1.0.jar"
 hash-format = "sha512"
-hash = "c6d7c79f934e19868f4a716bd78c63a18c8bf6b546327916a7ad90632dc89565c9c689cd102db93a05d363d33c953ed2ce8056a8f3a96aebcb6312f76fe47a8b"
+hash = "a9faded0734bb4fde2dbe27b3fe5cc678a03185201b4b99f7415e890d20f3991bd131d1c3b32f8c0142af611ade9ebb04f65c7dbf805fbdec729c2cd8c5e2920"
 
 [update]
 [update.modrinth]
 mod-id = "9leXt4A5"
-version = "UCIHOC9y"
+version = "CbACsOvp"
