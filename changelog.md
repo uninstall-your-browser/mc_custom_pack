@@ -12,8 +12,8 @@
 
 ## Config changes
 
-- Probited carrying blocks from `tetra` and `tombstone` mods (carryon)
-- Updated epicfight item switch list
+- Probited carrying blocks from *tetra* and *tombstone* (*carryon*)
+- Updated *epicfight* item switch list
 
 ## Other changes
 
