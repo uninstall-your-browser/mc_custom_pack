@@ -9,6 +9,10 @@ file = "config/dropthemeat-common.toml"
 hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
 
 [[files]]
+file = "config/effortlessbuilding-common.toml"
+hash = "fcba89d65935d1c8a02a0d4cecd5cb29daf36b958b026595e71c6ed61207585d"
+
+[[files]]
 file = "config/epicfight-client.toml"
 hash = "97ce10e9caeadc6e1e209a62022b9a1494aaf5c2be1a006b3d3450628c29f621"
 
@@ -29,8 +33,16 @@ file = "kubejs/config/common.properties"
 hash = "dc7b9423ad8bb2a20e680ece19d6a5149aa85bc7faf145e7e2d9c039827564c4"
 
 [[files]]
-file = "kubejs/server_scripts/diorite.js"
-hash = "5ac17a07f2f54230f06acac7d3ab7fc775e6bed506b3f439fe720010ac30976c"
+file = "kubejs/server_scripts/asurine.js"
+hash = "ffb0d2f974341c7cc44dd3f0a3bb2af92ad81dcefed2cd335bca904e239cfd0b"
+
+[[files]]
+file = "kubejs/server_scripts/drawers.js"
+hash = "653afd4b3bd96bde2de531d2049c85c24b874c6455f6724450c6ab21234ed411"
+
+[[files]]
+file = "kubejs/server_scripts/granite.js"
+hash = "ace8d86dad34602ae2a90e54126895a7cd18b9794110c770815ee23890512111"
 
 [[files]]
 file = "mods/allthecompressed.pw.toml"
@@ -250,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/finally-farmable-dyes.pw.toml"
+hash = "5011ba62f80834fb1974872e1a19001a8b0bf713fa81b12f4f7b62609a67d201"
 metafile = true
 
 [[files]]
