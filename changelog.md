@@ -1,3 +1,9 @@
+# v3.0.5 - 2025-05-15
+
+## Updates
+
+- Updated *Sophisticated Core*
+
 # v3 - 2025-05-15
 
 ## Mod additions

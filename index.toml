@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "db323d1a396faba3b17aabfbf66416b8969566ca73ac1943134fd76df314e054"
+hash = "4f89ba2798379bdf1e71e86f51b27d1baaac146550db72dc19a6117ce6a790c1"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a9bc60756e1b453cf590d75bffffd5ad6de90f96adba8b3421d46279f21753f7"
+hash = "51c3841604e18f3054aab095d26818cfdefd3dd7d01bf1ddf6fc430608677c83"
 metafile = true
 
 [[files]]
