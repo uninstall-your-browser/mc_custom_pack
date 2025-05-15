@@ -10,7 +10,7 @@ hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "50bab3e59e82b742c6fc4743902c0229d11e0d73b11ea2b8774ab66530414c95"
+hash = "97ce10e9caeadc6e1e209a62022b9a1494aaf5c2be1a006b3d3450628c29f621"
 
 [[files]]
 file = "config/epicfight.toml"
