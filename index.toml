@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "3b06ca89935a57b48951c1f7b1b10ad24ea393e350c912908ed19b372d790f41"
+
+[[files]]
 file = "config/dropthemeat-common.toml"
 hash = "6c23577a330a79604de5d80ad72e8bcaae0375a1bc64c9dad79132f0732a9ed4"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "e29b7a7dc63ccefe91aaf01c7f9fe5d4aa5218446978ddc4806526eb02df46d1"
+hash = "50bab3e59e82b742c6fc4743902c0229d11e0d73b11ea2b8774ab66530414c95"
 
 [[files]]
 file = "config/epicfight.toml"
@@ -15,6 +19,47 @@ hash = "b63461b949bcd6d97d48433567bfb6296e9d46e8a20adb391c44bce8d22fec76"
 [[files]]
 file = "config/tombstone-server.toml"
 hash = "550409bcd60313359487a7e4eb25b283cce8e8d41f3fc3d77b79514fa3ac1cce"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "b0e58c4d718fcc6f028e21ea512d3a6afbfd898f459765452878d4be05b36c06"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "dc7b9423ad8bb2a20e680ece19d6a5149aa85bc7faf145e7e2d9c039827564c4"
+
+[[files]]
+file = "kubejs/server_scripts/diorite.js"
+hash = "5ac17a07f2f54230f06acac7d3ab7fc775e6bed506b3f439fe720010ac30976c"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/allthecompressed.pw.toml"
+hash = "023dbd597a018bc8914544c9d781fdffc3dc78a3b2fab5f5b6771c119bb81653"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -43,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b9fd2cf7b92bc6d8654a5885cd8d9842d404177486f5de80866e194e56c293a0"
+hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
 metafile = true
 
 [[files]]
@@ -117,6 +162,11 @@ hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "cc93c7dd457427c7a6db51fe412a53771e2e6d6539d312d5141b050a32d45fb2"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "4e3dbbb95b55eef9fb523514a157c89056cbd8ae380ec989c1dfa865f4c1a743"
 metafile = true
@@ -139,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "9cd5f6002a8e80b0bed9d763c08d29979e4248245f1f36e3a20977b0c139730e"
 metafile = true
 
 [[files]]
@@ -198,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "470ef18beaa38edc695c7f20bb10584af0b64b644cc3c055233b72d42b852fcc"
+hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
 metafile = true
 
 [[files]]
@@ -287,6 +342,16 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -303,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "af1a0bb0121b32a3d4e65694d27d338e16aab61b2ca6d70c1e4c29099179b5e4"
+hash = "54d4eb842a1ef197666e5afe44f224839effcd2ebf21016c88a0b01bef74c402"
 metafile = true
 
 [[files]]
@@ -362,6 +427,11 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
 file = "mods/rispwinds-mining-dimension.pw.toml"
 hash = "5d7345ac35ff418b834a980e509a44e7d19fd8c23c7900613c8e63af6fcd7827"
 metafile = true
@@ -378,17 +448,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3e7e50f5bee28d50e578f116f57a0eb92edbd1801e1276cf53412f48a2a3bfb0"
+hash = "ff12dbb3176a76d400a3979409d11ff0e19087b05123b5a29d5f6642ce77271c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f1c35000bb491cbeb224e1dbb58a23c072d3b5f238c8d2ee5f5efd77f4c86724"
+hash = "a9bc60756e1b453cf590d75bffffd5ad6de90f96adba8b3421d46279f21753f7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f21aac1684a5d151cabe329e4473a64acffb9cdcd39ba7dcf5c2a31c2af02428"
+hash = "beae454e935d5c1035c770c62b1fd26e9cb0fcdc79959eb34e0e6110e9bba62f"
 metafile = true
 
 [[files]]
@@ -399,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/squat-grow.pw.toml"
 hash = "f1991c50d193d66409bdf2efd2cc3e36d9abcc9e566e35da5e07d631fce83e7b"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]
