@@ -1,13 +1,13 @@
 name = "Precision Mining"
 filename = "PrecisionMining-1.20.1-5.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c8509ac825c231a4924888ed4a94c5865a6604cd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fGXWJ2iw/versions/gPTJgea5/PrecisionMining-1.20.1-5.2.1.jar"
+hash-format = "sha512"
+hash = "32eb71e1b0104771546b4e35a9658f5cbbe0d51cfbd8de7a7d18c801ddb77f6a6fc40a70a619f3fefb8ccc0a0292e6c0749d9ea1e2042a08bb5e99782919f161"
 
 [update]
-[update.curseforge]
-file-id = 6443014
-project-id = 438451
+[update.modrinth]
+mod-id = "fGXWJ2iw"
+version = "gPTJgea5"

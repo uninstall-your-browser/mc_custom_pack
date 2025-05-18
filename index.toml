@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/precision-mining.pw.toml"
-hash = "36a40870fce1ca6a41bcde3373d1593c6c9ec12309bbbeec7d6613ed8f6db865"
+hash = "96e0bb7d106a8b98dc4f420bb8f18e35451abdfdd658a5389286d39838ab96ca"
 metafile = true
 
 [[files]]
