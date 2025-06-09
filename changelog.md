@@ -1,3 +1,9 @@
+# v3.0.8 - 2025-06-09
+
+## Downgrades
+
+- Downgraded (and pinned) *Epic Fight* to 20.11.2-1.20.1
+
 # v3.0.7 - 2025-06-09
 
 ## Updates

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "693649cd1a157baa305d0e6441a28268f077eb260a0be0067adbb06b2815152e"
+hash = "330771509e39c7192b977a604e906f37c6583541f9c7173a1aef762e55a6f873"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-fight.pw.toml"
-hash = "018dd99e3e083c30a8af965ddd319911b17b9809a06bd6d6c372e1f4dcdc3e7b"
+hash = "5fa5671e134251e42bdb162e614842d33d82f0e669703243a5684f33bda3b079"
 metafile = true
 
 [[files]]

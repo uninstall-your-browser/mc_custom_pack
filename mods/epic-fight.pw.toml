@@ -1,13 +1,14 @@
 name = "Epic Fight"
-filename = "epicfight-forge-20.11.4-1.20.1.jar"
+filename = "epicfight-forge-20.10.7-1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/WcBlQRiv/epicfight-forge-20.11.4-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/7cpK4rBV/epicfight-forge-20.10.7-1.20.1.jar"
 hash-format = "sha512"
-hash = "a793e5ec6222e038d74a9a81abb8f4be45bf1dca05967eed7aacb09df84e1a8a9a7d5848ad71335071bf94119b68458b1a53068dfdff2ae03f768a8c23991b5c"
+hash = "074c209f9c14f776a8865837545ae6db7b44875b0d4223aaf04ccc2c50311cf2fa7b009d5a3296b8dd062ba64a8bc76ca4570df1cb9842d76d6cb00262518edc"
 
 [update]
 [update.modrinth]
 mod-id = "vu3NZ5Ma"
-version = "WcBlQRiv"
+version = "7cpK4rBV"
