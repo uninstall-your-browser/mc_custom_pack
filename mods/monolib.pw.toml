@@ -3,11 +3,11 @@ filename = "monolib-forge-1.20.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9leXt4A5/versions/CbACsOvp/monolib-forge-1.20.1-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/ogfsiWTJ/monolib-forge-1.20.1-2.1.0.jar"
 hash-format = "sha512"
-hash = "a9faded0734bb4fde2dbe27b3fe5cc678a03185201b4b99f7415e890d20f3991bd131d1c3b32f8c0142af611ade9ebb04f65c7dbf805fbdec729c2cd8c5e2920"
+hash = "aa7982473c62aea887930fcc6328ebc5e62bed31009d8cc9d0d31d1318256defdb2d2e52fe24685ed5160d651adbea005c2967851d275ee9dbc6f855c764b635"
 
 [update]
 [update.modrinth]
 mod-id = "9leXt4A5"
-version = "CbACsOvp"
+version = "ogfsiWTJ"

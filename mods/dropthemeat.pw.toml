@@ -1,13 +1,13 @@
 name = "Drop the Meat "
-filename = "dropthemeat-1.6.jar"
+filename = "dropthemeat-1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Qgn68FJf/versions/Q8UXpvSc/dropthemeat-1.6.jar"
+url = "https://cdn.modrinth.com/data/Qgn68FJf/versions/yhIKzflt/dropthemeat-1.7.jar"
 hash-format = "sha512"
-hash = "d439d42f4e28b951238c7d987804b6c6e9c3108e54b8d8f30e8a5e98370a0bc9b1056138b73d6dd9246bc7bab4840a89d8099becae74346f888a93c4706d1ad3"
+hash = "51db74fa0e96cf0c8994bb1fe08d46d720de7267e93af3d5d444e7035b2cc2c0f8a58e80d656a0eb796cb49d6bb27201d531e459f375f3cbc422c0f5c3ef3fde"
 
 [update]
 [update.modrinth]
 mod-id = "Qgn68FJf"
-version = "Q8UXpvSc"
+version = "yhIKzflt"
