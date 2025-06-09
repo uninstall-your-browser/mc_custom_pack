@@ -1,3 +1,27 @@
+# v3.0.6 - 2025-06-09
+
+## Updates
+
+- Updated *Just Enough Items*
+- Updated *Sort It Out!*
+- Updated *Create: Connected*
+- Updated *ModernFix*
+- Updated *Sophisticated Backpacks*
+- Updated *MonoLib*
+- Updated *Epic Fight*
+- Updated *Storage Drawers*
+- Updated *Structurify*
+- Updated *Create Jetpack*
+- Updated *Drop the Meat *
+- Updated *Farmer's Delight*
+- Updated *Waystones*
+- Updated *Xaero's World Map*
+- Updated *Balm*
+- Updated *Create*
+- Updated *Sophisticated Core*
+- Updated *Sophisticated Storage*
+- Updated *Corail Tombstone*
+
 # v3.0.5 - 2025-05-15
 
 ## Updates
