@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "330771509e39c7192b977a604e906f37c6583541f9c7173a1aef762e55a6f873"
+hash = "9373cd7d58701d25041a8e36688be248ff02d92af8353849d116273ac9d05163"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -18,7 +18,7 @@ hash = "fcba89d65935d1c8a02a0d4cecd5cb29daf36b958b026595e71c6ed61207585d"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "51d62ed7283ab17b31cd49a5d913e20ca57069139d4f1711680edc5a870b0395"
+hash = "a11e5557f0b14c50ceb814def5b645489b1bd16dbf47d3c9b804d9cebb75c199"
 
 [[files]]
 file = "config/epicfight.toml"

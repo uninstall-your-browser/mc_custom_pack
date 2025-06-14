@@ -1,3 +1,13 @@
+# v3.0.9 - 2025-06-15
+
+## Configs
+
+- Fixed EFM config causing game to fail to load (for some reason)
+
+## Packwiz
+
+- Fixed EFM mod file hashes for packwiz
+
 # v3.0.8 - 2025-06-09
 
 ## Downgrades
