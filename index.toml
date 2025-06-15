@@ -5,6 +5,10 @@ file = "changelog.md"
 hash = "9373cd7d58701d25041a8e36688be248ff02d92af8353849d116273ac9d05163"
 
 [[files]]
+file = "config/AdvancedBackups.properties"
+hash = "908d04900ccdd6e8f9fc3bcc1ecaebf58a61b1d1c11f9d04cdfce9df29646481"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "3b06ca89935a57b48951c1f7b1b10ad24ea393e350c912908ed19b372d790f41"
 
@@ -47,6 +51,11 @@ hash = "653afd4b3bd96bde2de531d2049c85c24b874c6455f6724450c6ab21234ed411"
 [[files]]
 file = "kubejs/server_scripts/granite.js"
 hash = "ace8d86dad34602ae2a90e54126895a7cd18b9794110c770815ee23890512111"
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
+metafile = true
 
 [[files]]
 file = "mods/allthecompressed.pw.toml"
