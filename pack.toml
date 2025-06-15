@@ -1,12 +1,12 @@
 name = "I was transported to another world where, alone, I mined and crafted to become the hero「Bryan」"
 author = "AnimeEnjoyer"
-version = "3.0.9"
+version = "3.0.11"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e98fbc9e9b12cb8fb263dbfd203a2f5fe70048a563b1b6122d09d58e093ce147"
+hash = "ad8937e6802267f3622d1a66ed1bea54d7722a1012c761f2dfe3bbaae1677edc"
 
 [versions]
 forge = "47.4.0"

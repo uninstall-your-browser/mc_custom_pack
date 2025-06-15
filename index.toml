@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "61e41804bb0813a94040569478657087afc11e1ee1ea87c4f9d3a46702f9692f"
+hash = "83326a3a922b8233a56b0e28c6670a94241072d90836ddbb03d5714b17a58e90"
 
 [[files]]
 file = "config/carryon-common.toml"

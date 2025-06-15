@@ -1,3 +1,9 @@
+# v3.0.11 - 2026-06-15
+
+## Configs
+
+- Removed default Advanced Backups config
+
 # v3.0.10 - 2026-06-15
 
 ## Mod additions
