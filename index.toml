@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "9373cd7d58701d25041a8e36688be248ff02d92af8353849d116273ac9d05163"
+hash = "61e41804bb0813a94040569478657087afc11e1ee1ea87c4f9d3a46702f9692f"
 
 [[files]]
 file = "config/AdvancedBackups.properties"

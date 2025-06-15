@@ -1,3 +1,9 @@
+# v3.0.10 - 2026-06-15
+
+## Mod additions
+
+- Added Advanced Backups
+
 # v3.0.9 - 2025-06-15
 
 ## Configs
