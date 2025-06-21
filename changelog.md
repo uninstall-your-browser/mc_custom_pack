@@ -1,3 +1,9 @@
+# v3.13 - 2025-06-21
+
+## Changes
+
+- Add my server is compatible
+
 # v3.12 - 2025-06-21
 
 ## Changes

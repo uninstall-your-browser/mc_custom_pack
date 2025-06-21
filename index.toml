@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "2db04088fdc3f499b1c8054a6ad4a00e506e0ed78de5ce8d5d97000863b95d06"
+hash = "62a9aa1cb9d0b3dd70d6ac4c83f9e87a131ce0db7e4d3237a788d1b88fb34971"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -391,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "d60f6a6d46b66a76a6e3d185177a20cba42b83ba37f34db0fbe3c9babab7c837"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
 metafile = true
 
 [[files]]
