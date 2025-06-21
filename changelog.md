@@ -1,10 +1,18 @@
-# v3.0.11 - 2026-06-15
+# v3.12 - 2025-06-21
+
+## Changes
+
+- Update mods
+- Add create copycats+
+- Add man of many planes
+
+# v3.0.11 - 2025-06-15
 
 ## Configs
 
 - Removed default Advanced Backups config
 
-# v3.0.10 - 2026-06-15
+# v3.0.10 - 2025-06-15
 
 ## Mod additions
 
