@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "62a9aa1cb9d0b3dd70d6ac4c83f9e87a131ce0db7e4d3237a788d1b88fb34971"
+hash = "4e65a0b60a8045e98a06524faddd96c3dbde8f8ef6679d9c01cab80eabf37524"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -23,6 +23,10 @@ hash = "a11e5557f0b14c50ceb814def5b645489b1bd16dbf47d3c9b804d9cebb75c199"
 [[files]]
 file = "config/epicfight.toml"
 hash = "b63461b949bcd6d97d48433567bfb6296e9d46e8a20adb391c44bce8d22fec76"
+
+[[files]]
+file = "config/structurify.json"
+hash = "1a65e75cc1bb8d6aa39e7cb6ae112593ad7620cd1bf17f453e14360ca088e420"
 
 [[files]]
 file = "config/tombstone-server.toml"

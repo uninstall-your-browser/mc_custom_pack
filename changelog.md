@@ -1,3 +1,9 @@
+# v3.14 - 2025-06-22
+
+## Changes
+
+- Disable corail abandoned graves
+
 # v3.13 - 2025-06-21
 
 ## Changes
