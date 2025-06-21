@@ -149,8 +149,13 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "8375be42c23e35f8f624ffbaf9255582aa0b1d77682991a51ad61ee15daa820b"
+hash = "b7f03977131db7ac7f98e5838fa81454679635f66cdab8e9130c5c6034c4f424"
 metafile = true
 
 [[files]]
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "e08ce11b0838d7d24b23194bb6d2e147e99d988fa1d18415e7c230a4b6dc2c93"
+hash = "d179ac29a7f0bfdf988f0de4b809c769126bcc5ee0d2a8fe5e1809cce828f5cd"
 metafile = true
 
 [[files]]
@@ -175,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "17f996634516fe8a9f0699d44ef0d9bfc3eea1edd01ae5ee866424f0f3fe2713"
+hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
 metafile = true
 
 [[files]]
@@ -190,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-mechanical-spawner.pw.toml"
-hash = "9cd5f6002a8e80b0bed9d763c08d29979e4248245f1f36e3a20977b0c139730e"
+hash = "e28ad23aa941b216a9cd44dc5f9a5c0a1d72f9b2a86437e4db41bd073cd0e2cf"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7841368c0240554eb99f08a5c07a2dc135751147a9de1c5086f96fc03eac9d6e"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
@@ -305,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
+hash = "3aa4d2e503b7a4544868954aa8175335ee34714a8b44cc2a41cdbb833e271c31"
 metafile = true
 
 [[files]]
@@ -356,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
@@ -460,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c06ef71fa275595c7e0c9402965363d4ee1429c47c1915d6705dd811a367080d"
+hash = "0da0f33ea3ad504766e0c841fbbe025e102695de2166d91b85581fd0b3286110"
 metafile = true
 
 [[files]]
@@ -480,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "f6a409c45e109a150c5ed85a8f1b5b41911782a76c61547a7395ec4ffc2f6b3e"
+hash = "5cbc3371ed01d661f4272322bc9da5e148b55432ff492cc4cec0e4694fb000e5"
 metafile = true
 
 [[files]]
