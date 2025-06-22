@@ -233,6 +233,11 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/dropthemeat.pw.toml"
 hash = "340612f5b13538c2e6a473746f4542c3b8f9c68483883535a39386814d887794"
 metafile = true
