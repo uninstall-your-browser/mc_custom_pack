@@ -1,3 +1,20 @@
+# v4.0 - 2025-06-22
+
+## Datapacks
+
+- Added veridium generator for create mechanical generators
+
+## Recipes
+
+- Reduced chance of copper products for crushing veridium
+- Made sophisticated storage stack upgrades much cheaper
+	- They no longer require the previous tier
+- Change sophisticated storage void upgrade recipe to skip straight to the advanced void upgrade
+
+## Mod additions
+
+- Added global packs
+
 # v3.14 - 2025-06-22
 
 ## Changes
