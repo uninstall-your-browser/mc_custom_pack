@@ -597,8 +597,232 @@ hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Better SB Upgrades.zip"
-hash = "1c699bac1d953f076365cb30047da1072030b7d9a75868df12cf769b145f987d"
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_compacting_upgrade.png"
+hash = "1233e4c149a655709eb0cfacf91eb1405cb6696bda4341a0b9a300be18e9956b"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_deposit_upgrade.png"
+hash = "55d4150e16d0fbee6b8445ad08a52cce62bf98933d04487c0ea402cb6e960f68"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_feeding_upgrade.png"
+hash = "ccc6aa3f3c264c696f0537f677f8bdbf8cff4f792cdd7cdcb4d279aa172087ae"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_filter_upgrade.png"
+hash = "50ae13b82ea4919af9d83f29c9d8b7923346f8bf82de0d71d2cf2ef1537598ab"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_jukebox_upgrade.png"
+hash = "583081e52858b2b493fa107fcfa5357a2557c3a6e90d19ee5396eb4d0fe5cfa4"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_magnet_upgrade.png"
+hash = "82bfdef1d63eccfd52b8c24d9da5676b8f44a1b7cb6df33ffe46254c14fea9a5"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_pickup_upgrade.png"
+hash = "783cbf86ec1ef701520eee78ec5efb9f67af13c09b9dca1d0a6e18fcc0e4aed6"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_pump_upgrade.png"
+hash = "dd701f6208d10477a490845663148d2b9aa5509a8aafd2b075946965d6bf0a78"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_refill_upgrade.png"
+hash = "56a6f63c92e2171b970ecf60366a2ccc91f0286dd8b51330adbcd9181d0ecbe2"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_restock_upgrade.png"
+hash = "4831972859d2caf4f0345d7c3a083326de782a3b0954a65b15753de25e2bbb50"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_tool_swapper_upgrade.png"
+hash = "ba1d748711e7acfde5112c7da5c3140480c5ce69e1158504e942c251af107316"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/advanced_void_upgrade.png"
+hash = "956f45db8fef8b880ca7da9ac4d00420a4386faa3f9ac5797a154e7bbabb2f19"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/anvil_upgrade.png"
+hash = "0b833dcfc91ad40ed07e642ed4c4fe826009a27016590c767ffae5dc08987d93"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/auto_blasting_upgrade.png"
+hash = "88ca2aafd96d4a0421606b6974b530bee952dcf284ac577e40ca8af1cd986df9"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/auto_smelting_upgrade.png"
+hash = "e6754f2b963c266a1c079ee7f16625325bcda2632bf84345b81fb6b0c2d51689"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/auto_smoking_upgrade.png"
+hash = "7b3933e003fc173fb9321081e910ec494ba1b9133f8ad88bbed06890756e5f24"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/battery_upgrade.png"
+hash = "84cff74e3fafea6e0c850fc00e92b636ecc3d72dc0a3304e7496200204b31900"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/blasting_upgrade.png"
+hash = "cb33cb6e822570cc852bfc75ce020c3211ebaeb300c100baead27620f47d3e7f"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/alchemy_bench_upgrade.png"
+hash = "9c55a7784e40cff2e25aafc84020403b83caf4a278e5cd37f59a121586adbfd9"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/botanist_workbench_upgrade.png"
+hash = "07da595722b212f654136a80c3390bf03f8c03a1c101d48ef24633a1fe1c989e"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/carpenters_table_upgrade.png"
+hash = "772f080b7d0171e228086678605865c779ccdced3eebc048c2d9111a6a73e1a2"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/glassblower_upgrade.png"
+hash = "062efbba53e6e1d383a47baca58539a19e4ff53ca5b31000b963f91170e017e1"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/loom_table_upgrade.png"
+hash = "be9510701c8e2d9038a3f9cf3e4da4e1e4b6aa781e549a7ab95588880d041314"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/mason_table_upgrade.png"
+hash = "79dc3293fa5dadee1bc7d8d280bf617cfa3cd2cbf3e1b474003556252f58d7f3"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/chipped/tinkering_table_upgrade.png"
+hash = "e0098278756d76dac53e5a4a811d6ed2e111860a0db5e1243a9d8a39a4fbb16b"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/compacting_upgrade.png"
+hash = "7ecf7d0c07d58b416fba3c6c7daca82d95323b854d7945fd714e5287f5e3224d"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/crafting_upgrade.png"
+hash = "5d315d81b4ed44306a49f559aad9b2fa7c9d3dfe71f64b7515e5555726d5d5ba"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/deposit_upgrade.png"
+hash = "742243cbb63d49e3af68ecc02894b50e8e302cd023bd5725d39c64b82ba455b1"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/everlasting_upgrade.png"
+hash = "43e8d529aac1cc4665388a40be578ded8f326dfb0c8bd20b80d9ad8eab99069e"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/feeding_upgrade.png"
+hash = "93b436ca54eca992dd047d9c6125b15593250819613383dc27ab1c3b3968e03f"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/filter_upgrade.png"
+hash = "5ac05ffbfce034f6c8ce74beaea113642ebb0f6b604798250a98f6509cd4ae79"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/inception_upgrade.png"
+hash = "79a26c4dc0c021bc6bbef8066f67281293e9211d5686e952f92ef43e985fb5cb"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/infinity_upgrade.png"
+hash = "4ff40a96bb34bdff9d8f8d4f8268224e22f0dff122c46fc653c0ccc1cbe29cb5"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/jukebox_upgrade.png"
+hash = "b18e6117b19f29fa465e47160b17090e2bec8f131e8c60c771fe7a43e577e80c"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/magnet_upgrade.png"
+hash = "b35711188caffc3f715ea15c6e026d106500b97ec88e2fbd7d7b249e1862abba"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/pickup_upgrade.png"
+hash = "772c431d82548d93617aff4903e1c0fed586b071a0e075db59e16abafc6649c4"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/pump_upgrade.png"
+hash = "6b96159e5f6a0a74985c3b4a19f502a29513a37db0db98bc7b42a64d5f621ca3"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/refill_upgrade.png"
+hash = "7cb4103334cedc2f2e0d9843bac0158ae82fc1f5b78fa2ac0fcf70a3c1b82946"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/restock_upgrade.png"
+hash = "fdc3403dec1aba9966cb67533724e1609a6e7994c372f45e6f4e2255d25bdc15"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/smelting_upgrade.png"
+hash = "d4a6711960058e557737d09637567baa2312e34dcf27fa85a1b8c5d9fa2e4d54"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/smithing_upgrade.png"
+hash = "124451a39dee2401bc3441f9745da5e08741f5d319bac196c026a91811b59110"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/smoking_upgrade.png"
+hash = "d65fa5339ac834df105dfd8813ba1d6002215954f8549b22a95b760127ad1681"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_omega_tier.png"
+hash = "5330c28421a2779e9cbf66e3cde8377ebea74c2dfd3e926fed3f3a753a1f55ab"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_starter_tier.png"
+hash = "d8599d78ed13035eb6f827f324c9d4388c5ae4e1087834839459b31d8dbca3bc"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_1.png"
+hash = "582bb92f1a66e823085223c507b21fcff63f7e542879ccc7e7539f4b5e951cf9"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_2.png"
+hash = "a4e1e4444ab723d2d66c955b714e4c397a8421982e005cb40a514435f505ae4b"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_3.png"
+hash = "fa90efeb6052d2ca232e10d4d4dd6991faa28ceddc2a21dc5a041a2cd297d46b"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_4.png"
+hash = "2e38a63963c11c940ce6d5fdc39fdb8544a765bf1e9cee43aafb1f21e87dfcb5"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/stonecutter_upgrade.png"
+hash = "7abe8d8ee45258fe9cfd5e33111b8b2344924127e6e722c09e8b03b32c844d61"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/survival_infinity_upgrade.png"
+hash = "70f2d1c6d4da1acd7e3f08c3b4efff042a62f5af3562eaad111c1ea3123f7c5b"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/tank_upgrade.png"
+hash = "adc424791bb214663b821b04549c4f9a6a56e55f7a62091aec056ba5612a0a83"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/tool_swapper_upgrade.png"
+hash = "2f97c3f6f7f67525036c17e689606e2a0c261d3c3064de285b212adb376f050d"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/upgrade_base.png"
+hash = "1d152faecc40f2c24e38d41214fb9c4d56b38e7f49184d3259e4de2cb2d90601"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/void_upgrade.png"
+hash = "2746302b0713a6bcee448f19b8eaea56619050de24ac2f5dc94acd301b2cac49"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/assets/sophisticatedbackpacks/textures/item/xp_pump_upgrade.png"
+hash = "058a5cdeb98f5d3f8df5b983df139a9e0898e47f40bb3533319a382013771ea3"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/pack.mcmeta"
+hash = "5ce829133a50cca6f17ee392e35beaa472fd50042903e972f417059413546533"
+
+[[files]]
+file = "resourcepacks/Better SB Upgrades/pack.png"
+hash = "5edfe49a6031c894404c69492f6b58d2ef175766f85edc1329207813ba3bb2d7"
 
 [[files]]
 file = "resourcepacks/better-gui-sophisticated-backpacks.pw.toml"
