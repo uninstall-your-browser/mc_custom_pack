@@ -33,6 +33,14 @@ file = "config/tombstone-server.toml"
 hash = "550409bcd60313359487a7e4eb25b283cce8e8d41f3fc3d77b79514fa3ac1cce"
 
 [[files]]
+file = "datapacks/create_cobblestone_custom/data/createcobblestone/generator_types/veridium.json"
+hash = "bdfe4430f89d00ca75f01bb54a94c5e165ff07b7c7ceebd20a94a0f4a7bb2118"
+
+[[files]]
+file = "datapacks/create_cobblestone_custom/pack.mcmeta"
+hash = "f61b071845a8cbe6c778a5685aa14358efe3af8d7c82266b0a1d09206f95e00d"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "b0e58c4d718fcc6f028e21ea512d3a6afbfd898f459765452878d4be05b36c06"
 
@@ -45,12 +53,24 @@ file = "kubejs/server_scripts/asurine.js"
 hash = "ffb0d2f974341c7cc44dd3f0a3bb2af92ad81dcefed2cd335bca904e239cfd0b"
 
 [[files]]
+file = "kubejs/server_scripts/copper_nugger_fix.js"
+hash = "9bc39186454a7a8ccfb3fb4c5e8560e37de4fa0468d26b2d669c8c1f49939289"
+
+[[files]]
 file = "kubejs/server_scripts/drawers.js"
 hash = "653afd4b3bd96bde2de531d2049c85c24b874c6455f6724450c6ab21234ed411"
 
 [[files]]
 file = "kubejs/server_scripts/granite.js"
 hash = "ace8d86dad34602ae2a90e54126895a7cd18b9794110c770815ee23890512111"
+
+[[files]]
+file = "kubejs/server_scripts/sophisticated_upgrades.js"
+hash = "c2c328ed7930e81b632a5b5af22892624f40ce74ba36da8141d94126c7fce2c1"
+
+[[files]]
+file = "kubejs/server_scripts/veridium_crushing.js"
+hash = "a157fce444b18ff88377f99f465b9fd0a90578e168f663dc21a91132cbb3ce39"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
@@ -305,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "7ca2940f86129bf638acea764b0734394f9c2a61394065a06f43887edf3e813e"
 metafile = true
 
 [[files]]
