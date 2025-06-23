@@ -6,7 +6,7 @@ hash = "036a94d551b39f7001c96106f5125e0b1b7a6e17bd97808d11721ea361a96e83"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "3b06ca89935a57b48951c1f7b1b10ad24ea393e350c912908ed19b372d790f41"
+hash = "8c0f56786de25129748467baacaf7e7370ae9423bccccf69229ac911a37fa398"
 
 [[files]]
 file = "config/dropthemeat-common.toml"
