@@ -70,7 +70,7 @@ hash = "c2c328ed7930e81b632a5b5af22892624f40ce74ba36da8141d94126c7fce2c1"
 
 [[files]]
 file = "kubejs/server_scripts/veridium_crushing.js"
-hash = "a157fce444b18ff88377f99f465b9fd0a90578e168f663dc21a91132cbb3ce39"
+hash = "e92bd41121fa6be5e18ea7d8900cd6696e52aa4572a66c1eb45cf35ed4b23962"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
