@@ -278,6 +278,11 @@ hash = "5fa5671e134251e42bdb162e614842d33d82f0e669703243a5684f33bda3b079"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
