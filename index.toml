@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "d179ac29a7f0bfdf988f0de4b809c769126bcc5ee0d2a8fe5e1809cce828f5cd"
+hash = "4852a9af0dd34136c85a20a9729b554bbb8afbf81f8bfdbb52b8a8cae898b1e6"
 metafile = true
 
 [[files]]
@@ -499,17 +499,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
+hash = "c6d654ccff6672ce6b5e07a822735a4dbd1adc2582b947f21c06f00416d5b164"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3995c591237c0b1e85c66a0c1420367805653eeb02451c99497697f96296fe9f"
+hash = "3dca4b0f2e5f5f41e75ea8bb323d8d40cc745997198778d8442e54e34544962c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "0da0f33ea3ad504766e0c841fbbe025e102695de2166d91b85581fd0b3286110"
+hash = "f9cccbac27a1001dc6878cd469f942a6a7e93cc81bf39f050033cece8aa56154"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "5cbc3371ed01d661f4272322bc9da5e148b55432ff492cc4cec0e4694fb000e5"
+hash = "116d8fce3527b6777457e96a5e9f68d0ae2c9bcd749535593994d18ac320a2c7"
 metafile = true
 
 [[files]]
