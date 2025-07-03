@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "b7f03977131db7ac7f98e5838fa81454679635f66cdab8e9130c5c6034c4f424"
+hash = "69093fb27d64b9a690a06c297666d58769c47095bdb6f38c2b6ed16476648efc"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "800901c5f0db2219ee5a087f1ebbe774f055065ab8baadc303e3ae5e97ca10df"
+hash = "43542be206793722a111fb3c332592842da325bd46cd5dd8a1f62deb551b3e6c"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+hash = "0b811f8de64a172a9de2d151ce53579b666e15744b7744c64ddc894a8624c5e2"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
+hash = "5f68d67accdd7dffc8df29d7ef14b90ac4373226879485f1f8da5b74e108894f"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f9cccbac27a1001dc6878cd469f942a6a7e93cc81bf39f050033cece8aa56154"
+hash = "4bd13c5031f1e1d1073152381a73cb0515ee4dc50d4ac514290d90db998bafa9"
 metafile = true
 
 [[files]]
