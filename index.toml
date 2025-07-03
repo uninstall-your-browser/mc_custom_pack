@@ -57,6 +57,10 @@ file = "kubejs/server_scripts/copper_nugger_fix.js"
 hash = "9bc39186454a7a8ccfb3fb4c5e8560e37de4fa0468d26b2d669c8c1f49939289"
 
 [[files]]
+file = "kubejs/server_scripts/copper_oxidise.js"
+hash = "3ef9751eb5a0970886350c470d8cf8db00a4accee5dcb1deb7dc61edaaf14dba"
+
+[[files]]
 file = "kubejs/server_scripts/drawers.js"
 hash = "653afd4b3bd96bde2de531d2049c85c24b874c6455f6724450c6ab21234ed411"
 
