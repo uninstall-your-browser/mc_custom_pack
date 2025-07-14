@@ -586,6 +586,11 @@ file = "mods/vintageimprovements-1.20.1-0.3.1.0.jar"
 hash = "214581e51e768f094aa8c371a63dfc2237fa927f72fb75ea74c7b6b9df6d89e9"
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "ae066b36008d38ed6f5f6f4937eb5b3a12ea8c4c53917b92afa449c9c7850115"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "d297e172474bf6b009775c4c5fe03530549ad4ac80c905d83a3c1b9beca2ac38"
 metafile = true
