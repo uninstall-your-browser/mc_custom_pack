@@ -1,0 +1,13 @@
+name = "BadMeteoroid"
+filename = "badmeteoroid-1.3-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9T67LoUA/versions/SI9c9Uqb/badmeteoroid-1.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "77688fbb510bcff74be373e56361dc277435bfc2715d773a78f1d63e223251c17d93161e1922b8addbdd58f085b95e7dff48cdfb26b4e31689459ade910b191c"
+
+[update]
+[update.modrinth]
+mod-id = "9T67LoUA"
+version = "SI9c9Uqb"
