@@ -1,6 +1,6 @@
 name = "I was transported to another world where, alone, I mined and crafted to become the hero「Bryan」"
 author = "AnimeEnjoyer"
-version = "2025.11.10"
+version = "2025.11.10a"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "1861556ede7d7eaf7ae36f334ceb2e649d80cc375657e406908d00c2454c87c4"
 
 [versions]
-forge = "47.4.9"
+forge = "47.4.10"
 minecraft = "1.20.1"
