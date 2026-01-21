@@ -1,13 +1,13 @@
 name = "Extreme sound muffler"
-filename = "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar"
+filename = "ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/tTO5f5iv/ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/7daeCqUP/ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "2cd3be9ac975118f10d21c379db7ad1d5625c854ea45f7299da340abbd34b9d2863eda4a967ee1b57a1f78f1c08d8a86fb66b6ac4c9aadb9390071cf1c64e5d4"
+hash = "5fb4ef6bdcf344dae3af9f39a8ce510ebb3fe5d928ce17ba3067bb1e034e3eeb953c0fd905fa4462c1eb6b0d075d84f9fbf734dfc3b31423a75054b30281518a"
 
 [update]
 [update.modrinth]
 mod-id = "5IIKsxiL"
-version = "tTO5f5iv"
+version = "7daeCqUP"
