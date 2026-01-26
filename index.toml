@@ -260,11 +260,6 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
-file = "mods/create_factory_logistics.pw.toml"
-hash = "0b84aa4d342abf1b0a1afbab8b4fb8d21e095eece08b949f13e40bb6f100e031"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
