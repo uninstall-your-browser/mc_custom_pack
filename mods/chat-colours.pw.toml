@@ -1,0 +1,13 @@
+name = "Chat Colours"
+filename = "chatcolours-1.19-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V817p2nv/versions/rbEUKGrg/chatcolours-1.19-1.0.jar"
+hash-format = "sha512"
+hash = "e48bc77b28a760d59a19460d2fa9934663051b8b10956824326e36d80792dc2a22185037dce9cd4dfadf78e8ec087968b4f477a63bc3c6e1381fe641d21eeba3"
+
+[update]
+[update.modrinth]
+mod-id = "V817p2nv"
+version = "rbEUKGrg"

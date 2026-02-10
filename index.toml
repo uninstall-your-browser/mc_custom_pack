@@ -165,6 +165,11 @@ hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
 metafile = true
 
 [[files]]
+file = "mods/chat-colours.pw.toml"
+hash = "8c4c68382df6cc5f40b298b7984a94a34fbf6bcf5701475bbfc8e1ee36712a71"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
