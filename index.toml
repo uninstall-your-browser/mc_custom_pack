@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e0ede7b2c2dcfbaf33010f2232d575380325406a333e0b3249accaa324fe8902"
+hash = "0e356f563d73ebdf7d8b8af0762ba3ea02dbd53f575d073d8a75f35dc91bf723"
 metafile = true
 
 [[files]]
