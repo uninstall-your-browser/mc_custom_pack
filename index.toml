@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "b13bad02617c5c0b39dede935d46bbf9755e66581087254372a12364b75df2b9"
+hash = "e0ede7b2c2dcfbaf33010f2232d575380325406a333e0b3249accaa324fe8902"
 metafile = true
 
 [[files]]
@@ -291,17 +291,17 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "78370ae52e87fdd72c5a988bed40674d1a7a9bc8a7d69e899f6a4fa91901925d"
+hash = "60c712cc541a109ebef9675bb441ef20d79eeee8b0395ee28e5e15cce2947223"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "29b8ec6b34a1c23b4a3ba3e4824373768250efa0c299a2ea26cf4cfa0b33944c"
+hash = "3f00fbae81c4740cb4966119ca5e6ae63a032518584942ae32ec9c13a3f80dfa"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash = "7a180c0c68987482b2ba64c277a7735b9bd01adb910a1d91867134be8cbde29c"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/etched.pw.toml"
-hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+hash = "52c8e16175353ec9f1a343799800195992667577df4c574258e8d0a68c366c40"
 metafile = true
 
 [[files]]
@@ -541,12 +541,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ba7c13c7700213ac91969d2a8bd6791e266f50724567d9c8ef6bd4af723ca169"
+hash = "59b6fdfc212eb4665e5e5b15c38a0f36272432694eb8b681f7d77ec61f9982cb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "514c9a8926c4b866177ae10c143ab7a0f3cabcb12d81bf57b9ea314624c87f80"
+hash = "84fb3b394eaf7dc9e12cc034da4f99b8023bc4e4c31df940d40167beb80daf20"
 metafile = true
 
 [[files]]
@@ -571,12 +571,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "671ca39d8c1e8a3e42e700d72f62aaf06561ef324bdacb00a1a1be6f56972119"
+hash = "064e87e53e390e1b885f2772f869bec19964f69b0e6ab43e897de7168d8bf244"
 metafile = true
 
 [[files]]
 file = "mods/tetra.pw.toml"
-hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
+hash = "469ed75f5aecdd5b9111b224851af933aece99dd4a5347502e5a03e8f2450342"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ hash = "c70f4026bef45b66e3409427e9ff3881b99f768abe942edc2bcdd2d7c80ec847"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "50dfd8547f93d1bc8f31e1740f94e24aadf661cb2948587ac16a41404b10effd"
+hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
 metafile = true
 
 [[files]]
