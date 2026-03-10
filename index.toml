@@ -29,6 +29,10 @@ file = "config/epicfight.toml"
 hash = "b63461b949bcd6d97d48433567bfb6296e9d46e8a20adb391c44bce8d22fec76"
 
 [[files]]
+file = "config/powah.json5"
+hash = "9a5b5140b15d3704ac17d3f8f95d612d44f432da054a4c08a816ab993191f97b"
+
+[[files]]
 file = "config/structurify.json"
 hash = "1a65e75cc1bb8d6aa39e7cb6ae112593ad7620cd1bf17f453e14360ca088e420"
 
@@ -190,6 +194,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
@@ -297,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "60c712cc541a109ebef9675bb441ef20d79eeee8b0395ee28e5e15cce2947223"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "3f4594bfb481b9a2c6ed86e7449039477658be2301ae06b463c02fc4930947d2"
 metafile = true
 
 [[files]]
@@ -502,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "5f62a327932de16d603c5d922ff655069ac8fd8ccffb5f3f8b23f6cda4c04da0"
 metafile = true
 
 [[files]]
