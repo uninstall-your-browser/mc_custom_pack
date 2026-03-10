@@ -30,7 +30,7 @@ hash = "b63461b949bcd6d97d48433567bfb6296e9d46e8a20adb391c44bce8d22fec76"
 
 [[files]]
 file = "config/powah.json5"
-hash = "9a5b5140b15d3704ac17d3f8f95d612d44f432da054a4c08a816ab993191f97b"
+hash = "04e181bf57d7cf43bf9552afea598952fcc69b2440d2fb12514994a338de7318"
 
 [[files]]
 file = "config/structurify.json"
