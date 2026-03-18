@@ -509,6 +509,11 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
 metafile = true
@@ -581,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/sort-it-out.pw.toml"
 hash = "43da8586fa3150ba37f69b88fdb57fe1940b21f1bb688e2ed54834915f0e45b7"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
